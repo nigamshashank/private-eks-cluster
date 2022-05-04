@@ -1,4 +1,4 @@
-# Steps to follow to create a private-eks-cluster
+# Steps to create a private-eks-cluster
 
 1. create a cloud9 environment
 2. create a private eks cluster
